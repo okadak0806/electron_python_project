@@ -1,0 +1,28 @@
+{
+  "name": "electron_python_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okadak0806/electron_python_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okadak0806/electron_python_project/issues"
+  },
+  "homepage": "https://github.com/okadak0806/electron_python_project#readme",
+  "devDependencies": {
+    "electron": "^11.0.4"
+  },
+  "dependencies": {
+    "python-shell": "^2.0.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
